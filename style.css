@@ -1,5 +1,8 @@
 body {
-  background: #91f3fc;
+  background: radial-gradient(circle, #c9fbff, #91f3fc, #2f8189);
+  background-position: center;
+  background-size: auto;
+  background-repeat: round;
   margin-top: 1em;
   align-items: center;
 }
